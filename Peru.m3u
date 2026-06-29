@@ -78,7 +78,7 @@ http://181.224.255.210:8001/play/axrv/index.m3u8
 #EXTINF:-1 tvg-id="CanalMasTV.pe" tvg-name="Canal Mas TV" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos/main/canal-mas-tv.png" group-title="Peru",Canal Mas TV (1080p)
 https://live-evg11.tv360.bitel.com.pe/bitel/mastvSRT/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CanalMTelevision.pe" tvg-name="Canal M Television" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos/main/canal-m-television.png" group-title="Peru",Canal M Television (1080p) [Duda si es corecto la url revisar]
+#EXTINF:-1 tvg-id="CanalMTelevision.pe" tvg-name="Canal M Television" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos/main/canal-m-television.png" group-title="Peru",Canal M Television (1080p)
 https://live-evg10.tv360.bitel.com.pe/bitel/anqaratv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CasmaTV.pe" tvg-name="Casma TV" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos/main/casma-tv.png" group-title="Peru",Casma TV (720p)
@@ -93,7 +93,7 @@ https://s3.tvdatta.com:3908/stream/play.m3u8
 #EXTINF:-1 tvg-id="Conecta2TV.pe" tvg-name="Conecta 2 TV" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos/main/conecta-2-tv.png" group-title="Peru",Conecta 2 TV (720p)
 https://live.obslivestream.com/conecta2/index.m3u8
 
-#EXTINF:-1 tvg-id="ControversiaTV.pe" tvg-name="Controversia TV" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos/main/controversia-tv.png" group-title="Peru",Controversia TV (720p) Cambiar logo
+#EXTINF:-1 tvg-id="ControversiaTV.pe" tvg-name="Controversia TV" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos/main/controversia-tv.png" group-title="Peru",Controversia TV (720p)
 https://live.obslivestream.com/controversiatv/index.m3u8
 
 #EXTINF:-1 tvg-id="CRTV.pe" tvg-name="CR TV" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos/main/cr-tv.png" group-title="Peru",CR TV (720p)
@@ -277,7 +277,7 @@ https://live-evg7.tv360.bitel.com.pe/bitel/rtp/playlist.m3u8
 #EXTINF:-1 tvg-id="RumbaMixTV.pe" tvg-name="Rumba Mix TV" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos/main/rumba-mix-tv.png" group-title="Peru",Rumba Mix TV (1080p)
 https://live-evg5.tv360.bitel.com.pe/bitel/mixtvSRT/playlist.m3u8
 
-#EXTINF:-1 tvg-id="SanjuaneraTV.pe" tvg-name="Sanjuanera TV" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos/main/sanjuanera-tv.png" group-title="Peru",Sanjuanera TV (1080p) [Pantalla negra revisar]
+#EXTINF:-1 tvg-id="SanjuaneraTV.pe" tvg-name="Sanjuanera TV" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos/main/sanjuanera-tv.png" group-title="Peru",Sanjuanera TV (1080p)
 https://infosmartpe.store:5443/LiveApp/streams/3zc2BXi5SEys2310139330128741.m3u8
 
 #EXTINF:-1 tvg-id="SanPedroSAT.pe" tvg-name="San Pedro SAT" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos/main/san-pedro-sat.png" group-title="Peru",San Pedro SAT (1080p)
@@ -311,7 +311,7 @@ https://live.obslivestream.com/telecolormux/index.m3u8
 #EXTINF:-1 tvg-id="Telelima.pe" tvg-name="Telelima" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos/main/telelima.png" group-title="Peru",Telelima (1080p)
 https://live.telelima.net/web/index.m3u8
 
-#EXTINF:-1 tvg-id="Teleselva.pe" tvg-name="Teleselva" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos/main/teleselva.png" group-title="Peru",Teleselva (720p) [Si funciona revisar]
+#EXTINF:-1 tvg-id="Teleselva.pe" tvg-name="Teleselva" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos/main/teleselva.png" group-title="Peru",Teleselva (720p) [Duda si es corecto la url revisar]
 https://7.innovatestream.pe:19360/tvnoticiassatipo/tvnoticiassatipo.m3u8
 
 #EXTINF:-1 tvg-id="TelesystemTV.pe" tvg-name="Tele System TV" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos/main/tele-system-tv.png" group-title="Peru",Tele System TV (480p)
@@ -323,13 +323,13 @@ https://ott1.hdlatam.tv/live_abr/webtvTarapotoPe/playlist.m3u8
 #EXTINF:-1 tvg-id="Tevesur.pe" tvg-name="Tevesur"tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos/main/tevesur.png" group-title="Peru",Tevesur (1080p)
 https://live-evg11.tv360.bitel.com.pe/bitel/tevesurSRT/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TOPLatinoTV.pe" tvg-name="TOP Latino TV" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos/main/top-latino-tv.png" group-title="Peru",TOP Latino TV (404p) [Suele caducar revisar]
+#EXTINF:-1 tvg-id="TOPLatinoTV.pe" tvg-name="TOP Latino TV" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos/main/top-latino-tv.png" group-title="Peru",TOP Latino TV (404p) [Revisar no funciona]
 https://5cefcbf58ba2e.streamlock.net:543/webtltv/webtltv.stream/chunklist_w381950017_tkd293emF0b2tlbnN0YXJ0dGltZT0xNzgyMzMwNTI4Jndvd3phdG9rZW5lbmR0aW1lPTE3ODIzMzE1Mjgmd293emF0b2tlbmhhc2g9b1dsNDlBWTVyR0N2SWZqbnFpNTNiMEtiZ0wyamlXVUw2Vkh5UG1kS0RScz0=.m3u8
 
-#EXTINF:-1 tvg-id="TOP TV.pe" tvg-name="TOP TV" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos/main/top-tv.png" group-title="Peru",TOP TV (720p) [Pantalla negra revisar]
+#EXTINF:-1 tvg-id="TOP TV.pe" tvg-name="TOP TV" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos/main/top-tv.png" group-title="Peru",TOP TV (720p)
 https://tvdatta.com:3084/live/toptvaguaytialive.m3u8
 
-#EXTINF:-1 tvg-id="Trivu.pe" tvg-name="Trivu" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos/main/trivu.png" group-title="Peru",Trivu (1080p) [Esperar para ver si se repara revisar]
+#EXTINF:-1 tvg-id="Trivu.pe" tvg-name="Trivu" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos/main/trivu.png" group-title="Peru",Trivu (1080p) [Revisar no funciona]
 https://www.chasquirouter.com/salida/sd/trivu.m3u8
 
 #EXTINF:-1 tvg-id="TurboMixRadioTV.pe" tvg-name="Turbo Mix Radio TV" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos/main/turbo-mix-radio-tv.png" group-title="Peru",Turbo Mix Radio TV (1080p)
@@ -377,7 +377,7 @@ https://live-evg11.tv360.bitel.com.pe/bitel/uraniotv/playlist.m3u8
 #EXTINF:-1 tvg-id="UranioTV.pe" tvg-name="Uranio TV" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos/main/uranio-tv.png" group-title="Peru",Uranio TV (720p)
 https://live.obslivestream.com/uraniotv/index.m3u8
 
-#EXTINF:-1 tvg-id="UrbanaTV.pe" tvg-name="Urbana TV" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos/main/urbana-tv.png" group-title="Peru",Urbana TV (1080p) Cambiar logo
+#EXTINF:-1 tvg-id="UrbanaTV.pe" tvg-name="Urbana TV" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos/main/urbana-tv.png" group-title="Peru",Urbana TV (1080p)
 https://live-evg10.tv360.bitel.com.pe/bitel/urbanatv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="UsmpTV.pe" tvg-name="Usmp TV" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos/main/usmptv.png" group-title="Peru",USMPTV (720p) Prueba
@@ -399,7 +399,7 @@ https://videoserver.tmcreativos.com:19360/visionmusica/visionmusica.m3u8
 #EXTINF:-1 tvg-id="VisionSur.pe" tvg-name="Vision Sur" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos/main/vision-sur.png" group-title="Peru",Vision Sur (1080p)
 https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8
 
-#EXTINF:-1 tvg-id="VivaTV.pe" tvg-name="Viva TV Yurimaguas" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos/main/viva-tv-yurimaguas.png" group-title="Peru",Viva TV Yurimaguas (720p) [Duda si es corecto la url revisar]
+#EXTINF:-1 tvg-id="VivaTV.pe" tvg-name="Viva TV Yurimaguas" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos/main/viva-tv-yurimaguas.png" group-title="Peru",Viva TV Yurimaguas (720p)
 https://live.obslivestream.com/vivatv/index.m3u8
 
 #EXTINF:-1 tvg-id="VZTV.pe" tvg-name="VZ TV" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos/main/vz-tv.png" group-title="Peru",VZ TV (1080p)
