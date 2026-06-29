@@ -263,6 +263,9 @@ https://live-evg10.tv360.bitel.com.pe/bitel/realtv/playlist.m3u8
 https://live-evg7.tv360.bitel.com.pe/bitel/regiontvSRT/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RikuTV.pe" tvg-name="Riku TV" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos/main/riku-tv.png" group-title="Peru",Riku TV (1080p)
+https://amixtv.com:8081/rikutv/index.m3u8
+
+#EXTINF:-1 tvg-id="RikuTV.pe" tvg-name="Riku TV" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos/main/riku-tv.png" group-title="Peru",Riku TV (1080p)
 https://live-evg7.tv360.bitel.com.pe/bitel/riku/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RNTelevision.pe" tvg-name="RN Televisión" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos/main/rn-television.png" group-title="Peru",RN Televisión (480p)
