@@ -87,6 +87,9 @@ https://live-evg7.tv360.bitel.com.pe/bitel/casmatvSRT-TRA/playlist.m3u8
 #EXTINF:-1 tvg-id="CharapaTV.pe" tvg-name="Charapa TV" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos/main/charapa-tv.png" group-title="Peru",Charapa TV (1080p)
 https://live-evg10.tv360.bitel.com.pe/bitel/charapatvSRT/playlist.m3u8
 
+#EXTINF:-1 tvg-id="ChinchaTV.pe" tvg-name="Chincha TV" tvg-logo="https://i.postimg.cc/vH3jvKGr/Chincha-TV.png" group-title="Peru",Chincha TV (720p)
+https://s3.tvdatta.com:3908/stream/play.m3u8
+
 #EXTINF:-1 tvg-id="Conecta2TV.pe" tvg-name="Conecta 2 TV" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos/main/conecta-2-tv.png" group-title="Peru",Conecta 2 TV (720p)
 https://live.obslivestream.com/conecta2/index.m3u8
 
@@ -179,6 +182,12 @@ https://live-evg7.tv360.bitel.com.pe/bitel/nativachanchamayoSRT/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NeoTV.pe" tvg-name="Neo TV" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos/main/neo-tv.png" group-title="Peru",Neo TV (720p)
 https://live-evg7.tv360.bitel.com.pe/bitel/neotvSRT/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NexTV.pe" tvg-name="Nex TV" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos/main/nex-tv.png" group-title="Peru",Nex TV (1080p)
+https://play.agenciastreaming.com:8081/nextv/video.m3u8
+
+#EXTINF:-1 tvg-id="CanalN.pe" tvg-name="Canal N" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos/main/canal-n.png" group-title="Peru",Canal N (1080p)
+https://live-evg7.tv360.bitel.com.pe/bitel/ncanalSRT/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NZKTelevisiona.pe" tvg-name="NZK Television" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos/main/nzk-television.png" group-title="Peru",NZK Television (720p)
 https://eu1.servers10.com:8081/8258/index.m3u8
@@ -290,6 +299,9 @@ https://live20.bozztv.com/giatv/giatv-soltvenvivo/soltvenvivo/chunks.m3u8
 #EXTVLCOPT:http-referrer=https://soltvperu.com/
 https://live20.bozztv.com/giatv/giatv-soltvenvivo/soltvenvivo/chunks.m3u8
 
+#EXTINF:-1 tvg-id="SolarTVCusco.pe" tvg-name="Solar TV Cusco" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos/main/solar-tv-cusco.png" group-title="Peru",Solar TV Cusco (1080p)
+https://stmv2.srvif.com/solartv/solartv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="StudioPascoTV.pe" tvg-name="Studio Pasco TV" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos/main/studio-pasco-tv.png" group-title="Peru",Studio Pasco TV (1080p)
 https://live-evg7.tv360.bitel.com.pe/bitel/studiopasco/playlist.m3u8
 
@@ -365,7 +377,7 @@ https://live-evg11.tv360.bitel.com.pe/bitel/uraniotv/playlist.m3u8
 #EXTINF:-1 tvg-id="UranioTV.pe" tvg-name="Uranio TV" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos/main/uranio-tv.png" group-title="Peru",Uranio TV (720p)
 https://live.obslivestream.com/uraniotv/index.m3u8
 
-#EXTINF:-1 tvg-id="UrbanaTV.pe" tvg-name="Urbana TV" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos/main/altura-tv.png" group-title="Peru",Urbana TV (1080p) Cambiar logo
+#EXTINF:-1 tvg-id="UrbanaTV.pe" tvg-name="Urbana TV" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos/main/urbana-tv.png" group-title="Peru",Urbana TV (1080p) Cambiar logo
 https://live-evg10.tv360.bitel.com.pe/bitel/urbanatv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="UsmpTV.pe" tvg-name="Usmp TV" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos/main/usmptv.png" group-title="Peru",USMPTV (720p) Prueba
