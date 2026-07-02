@@ -56,7 +56,7 @@ http://181.224.255.210:8001/play/a0s6/index.m3u8?hls
 #EXTINF:-1 tvg-id="ATVSur.pe" tvg-name="ATV Sur" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-330x330px/main/atv-sur-pe.png" group-title="Peru",ATV Sur (720p)
 https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8
 
-#EXTINF:-1 tvg-id="AutenticaTelevision.pe" tvg-name="Autentica TV" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-330x330px/main/autentica.png" group-title="Peru",Autentica TV (720p)
+#EXTINF:-1 tvg-id="AutenticaTelevision.pe" tvg-name="Autentica TV" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-330x330px/main/autentica-pe.png" group-title="Peru",Autentica TV (720p)
 https://live.obslivestream.com/autenticatvmux/index.m3u8
 
 #EXTINF:-1 tvg-id="CableVisionTV.pe" tvg-name="Cable Vision TV" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-330x330px/main/cable-vision-tv-pe.png" group-title="Peru",Cable Vision TV (720p)
