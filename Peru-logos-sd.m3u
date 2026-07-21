@@ -291,7 +291,7 @@ https://play.agenciastreaming.com:8081/palmerastv/index.m3u8
 #EXTINF:-1 tvg-id="PanamericanaTelevision.pe" tvg-name="Panamericana Television" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/panamericana-television-pe.png" group-title="Peru",Panamericana Televisión (1080p)
 http://181.224.255.210:8001/play/a0s5/index.m3u8
 
-#EXTINF:-1 tvg-id="PanamericanaTelevision.pe" tvg-name="Panamericana Television" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/panamericana-television-pe.png" group-title="Peru",Panamericana Televisión (480p) [Opc.2]
+#EXTINF:-1 tvg-id="PanamericanaTelevision.pe" tvg-name="Panamericana Television" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/panamericana-television-pe.png" group-title="Peru",Panamericana Televisión (480p)
 http://181.224.255.210:8001/play/a0r6/index.m3u8
 
 #EXTINF:-1 tvg-id="PBO.pe" tvg-name="PBO" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/pbo-pe.png" group-title="Peru",PBO (720p)
