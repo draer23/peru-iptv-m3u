@@ -8,7 +8,7 @@
 https://live-evg10.tv360.bitel.com.pe/bitel/36tvSRT/chunks.m3u8
 
 #EXTINF:-1 tvg-id="A1TV.pe" tvg-name="A1 TV" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/a1-tv-pe.png" group-title="Peru",A1 TV (1080p)
-http://181.224.255.210:8001/play/a0rz/index.m3u8?hls
+http://181.224.255.210:8001/play/a0rz/index.m3u8
 https://vivatv.juanjuiserver.com:3657/live/a1televisionlive.m3u8
 
 #EXTINF:-1 tvg-id="ABCTeleshow.pe" tvg-name="ABC Teleshow" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/abc-teleshow-pe.png" group-title="Peru",ABC Teleshow (720p)
