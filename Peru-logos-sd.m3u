@@ -1,0 +1,520 @@
+#EXTM3U url-tvg="https://www.open-epg.com/files/peru.xml"
+
+##########################################
+# 🇵🇪 PERU (169)
+##########################################
+
+#EXTINF:-1 tvg-id="36TVHuacho.pe" tvg-name="36 TV Huacho" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/36-tv-huacho-pe.png" group-title="Peru",36 TV Huacho (1080p)
+https://live-evg10.tv360.bitel.com.pe/bitel/36tvSRT/chunks.m3u8
+
+#EXTINF:-1 tvg-id="A1TV.pe" tvg-name="A1 TV" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/a1-tv-pe.png" group-title="Peru",A1 TV (1080p)
+http://181.224.255.210:8001/play/a0rz/index.m3u8?hls
+https://vivatv.juanjuiserver.com:3657/live/a1televisionlive.m3u8
+
+#EXTINF:-1 tvg-id="ABCTeleshow.pe" tvg-name="ABC Teleshow" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/abc-teleshow-pe.png" group-title="Peru",ABC Teleshow (720p)
+https://live-evg10.tv360.bitel.com.pe/bitel/abctv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ABTelevision.pe" tvg-name="ABTelevision" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/abtelevision-pe.png" group-title="Peru",ABTelevision (1080p) [Duda si es corecto la url revisar]
+https://live-evg8.tv360.bitel.com.pe/bitel/abctelevisionSRT/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AgroTV.pe" tvg-name="Agro TV" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/agro-tv-pe.png" group-title="Peru",Agro TV (720p)
+https://play.agenciastreaming.com:8081/agrotv/index.m3u8
+
+#EXTINF:-1 tvg-id="AlbriciasTV.pe" tvg-name="Albricias TV" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/albricias-tv-pe.png" group-title="Peru",Albricias TV (1080p)
+https://live-evg10.tv360.bitel.com.pe/bitel/albriciastv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Alphatelevision.pe" tvg-name="Alpha television" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/alpha-television.png" group-title="Peru",Alpha television (1080p)
+https://play.agenciastreaming.com:8081/redalphatv/index.m3u8
+
+#EXTINF:-1 tvg-id="AmazonicaTV.pe" tvg-name="Amazonica TV" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/amazonica-tv-pe.png" group-title="Peru",Amazonica TV (480p)
+https://videoserver.tmcreativos.com:19360/amazonicatv/amazonicatv.m3u8
+
+#EXTINF:-1 tvg-id="AmericaTelevision.pe" tvg-name="América TV" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/america-tv-pe.png" group-title="Peru",América TV (1080p)
+http://205.235.6.29:8000/play/a0ut/index.m3u8
+
+#EXTINF:-1 tvg-id="AmericaTelevision.pe" tvg-name="América TV" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/america-tv-pe.png" group-title="Peru",América TV (1080p)
+http://181.224.255.210:8001/play/a0pj/index.m3u8
+
+#EXTINF:-1 tvg-id="AndesTelevision.pe" tvg-name="Andes TV" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/andes-tv-pe.png" group-title="Peru",Andes TV (1080p)
+https://live-evg7.tv360.bitel.com.pe/bitel/andestvSRT/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AndinaRTV.pe" tvg-name="Andina RTV" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/andina-rtv-pe.png" group-title="Peru",Andina RTV (720p)
+https://live-evg8.tv360.bitel.com.pe/bitel/andinatvSRT/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AntaresTV.pe" tvg-name="Antares TV" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/antares-tv-pe.png" group-title="Peru",Antares TV (720p)
+https://5949aa132c8fb.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AntenaUno.pe" tvg-name="Antena Uno" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/antena-uno-pe.png" group-title="Peru",Antena Uno (720p)
+https://live-evg8.tv360.bitel.com.pe/bitel/aunoSRT/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ArpegioTV.pe" tvg-name="Arpegio TV" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/arpegio-tv-pe.png" group-title="Peru",Arpegio TV (720p)
+https://vdo.oyotunserver.com/arpegio/video.m3u8
+
+#EXTINF:-1 tvg-id="AsiriTV.pe" tvg-name="Asiri TV" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/asiri-tv.-pe.png" group-title="Peru",Asiri TV (720p)
+https://video2.lhdserver.es/asiritv/live.m3u8
+
+#EXTINF:-1 tvg-id="ATV.pe" tvg-name="ATV" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/atv-pe.png" group-title="Peru",ATV (1080p)
+http://181.224.255.210:8001/play/a0s6/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="AtvPlus.pe" tvg-name="AtvPlus" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/atv-plus-pe.png" group-title="Peru",ATV+ (720p)
+https://d26l0c7cli5gzs.cloudfront.net/ts:abr.m3u8
+
+#EXTINF:-1 tvg-id="ATVSur.pe" tvg-name="ATV Sur" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/atv-sur-pe.png" group-title="Peru",ATV Sur (720p)
+https://dnhmqt6n0lkaq.cloudfront.net/ts:abr.m3u8
+
+#EXTINF:-1 tvg-id="AutenticaTelevision.pe" tvg-name="Autentica TV" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/autentica-pe.png" group-title="Peru",Autentica TV (720p)
+https://live.obslivestream.com/autenticatvmux/index.m3u8
+
+#EXTINF:-1 tvg-id="BellaAbanquinaTV.pe" tvg-name="Bella Abanquina TV" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/bella-abanquina-tv-pe.png" group-title="Peru",Bella Abanquina TV (1080p)
+https://live-evg8.tv360.bitel.com.pe/bitel/bellaabanquinaSRT/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BethelTV.pe" tvg-name="Bethel TV" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/bethel-tv-pe.png" group-title="Peru",Bethel TV (720p)
+https://alfa.betheltv.tv/srt/3_abr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BHTV.pe" tvg-name="BH TV" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/bh-tv-pe.png" group-title="Peru",BH TV (720p)
+https://5949aa132c8fb.streamlock.net:1963/iptvbhtv/livebhtvtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CableVisionTV.pe" tvg-name="Cable Vision TV" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/cable-vision-tv-pe.png" group-title="Peru",Cable Vision TV (720p)
+https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8
+
+#EXTINF:-1 tvg-id="CadenaTV.pe" tvg-name="Cadena TV" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/cadena-tv-pe.png" group-title="Peru",Cadena TV (720p)
+https://tv.bitstreaming.net:3789/live/cdntvlive.m3u8
+
+#EXTINF:-1 tvg-id="CajamarcaTV.pe" tvg-name="Cajamarca TV" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/cajamarca-tv-pe.png" group-title="Peru",Cajamarca TV (720p)
+https://live-evg8.tv360.bitel.com.pe/bitel/cajamarcatvSRT/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Canal8Catacaos.pe" tvg-name="Canal 8 Catacaos" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/canal-8-catacaos-pe.png" group-title="Peru",Canal 8 Catacaos (720p)
+https://live.obslivestream.com/canal8/index.m3u8
+
+#EXTINF:-1 tvg-id="Canal21Huancayo.pe" tvg-name="Canal 21 Huancayo" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/canal-21-huancayo-pe.png" group-title="Peru",Canal 21 Huancayo (720p)
+https://live-evg11.tv360.bitel.com.pe/bitel/tvwanka/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Canal25Ayacucho.pe" tvg-name="Canal 25 Ayacucho" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/canal-25-ayacucho-pe.png" group-title="Peru",Canal 25 Ayacucho (288p)
+https://live-evg10.tv360.bitel.com.pe/bitel/canal25ayacucho/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Canal39TV.pe" tvg-name="Canal 39 TV" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/canal-39-tv-pe.png" group-title="Peru",Canal 39 TV (720p)
+https://vivatv.juanjuiserver.com:3655/live/canal39live.m3u8
+
+#EXTINF:-1 tvg-id="CanalIPe.pe" tvg-name="Canal IPe" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/canal-IPe-pe.png" group-title="Peru",Canal IPe (1080p)
+https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e677.m3u8
+
+#EXTINF:-1 tvg-id="CanalMasTV.pe" tvg-name="Canal Mas TV" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/canal-mas-tv-pe.png" group-title="Peru",Canal Mas TV (1080p)
+https://live-evg11.tv360.bitel.com.pe/bitel/mastvSRT/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CanalMTelevision.pe" tvg-name="Canal M Television" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/canal-m-television-pe.png" group-title="Peru",Canal M Television (1080p)
+https://live-evg10.tv360.bitel.com.pe/bitel/anqaratv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CasmaTV.pe" tvg-name="Casma TV" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/casma-tv-pe.png" group-title="Peru",Casma TV (720p)
+https://micanal.ovh/livestreams/349.MH2YEGDCHBVR.m3u8
+
+#EXTINF:-1 tvg-id="CharapaTV.pe" tvg-name="Charapa TV" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/charapa-tv-pe.png" group-title="Peru",Charapa TV (1080p)
+https://live-evg10.tv360.bitel.com.pe/bitel/charapatvSRT/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ChinchaTV.pe" tvg-name="Chincha TV" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/chincha-tv-pe.png" group-title="Peru",Chincha TV (720p)
+https://s3.tvdatta.com:3908/stream/play.m3u8
+
+#EXTINF:-1 tvg-id="Conecta2TV.pe" tvg-name="Conecta 2 TV" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/conecta-2-tv-pe.png" group-title="Peru",Conecta 2 TV (720p)
+https://live.obslivestream.com/conecta2/index.m3u8
+
+#EXTINF:-1 tvg-id="ControversiaTV.pe" tvg-name="Controversia TV" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/controversia-tv-pe.png" group-title="Peru",Controversia TV (720p)
+https://live.obslivestream.com/controversiatv/index.m3u8
+
+#EXTINF:-1 tvg-id="CPN.pe" tvg-name="CPN" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/cpn-pe.png" group-title="Peru",CPN (720p)
+https://video2.lhdserver.es/cableperu/live.m3u8
+
+#EXTINF:-1 tvg-id="CRTV.pe" tvg-name="CR TV" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/cr-tv-pe.png" group-title="Peru",CR TV (720p)
+https://live.obslivestream.com/crtvmux/index.m3u8
+
+#EXTINF:-1 tvg-id="Cultura24TV.pe" tvg-name="Cultura 24 TV" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/cultura-24-tv-pe.png" group-title="Peru",Cultura 24 TV (720p)
+https://www.opencaster.com/resources/hls_stream/cultura24.m3u8
+
+#EXTINF:-1 tvg-id="CVNTV.pe" tvg-name="CVN TV" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/cvn-tv-pe.png" group-title="Peru",CVN TV (1080p)
+https://7.innovatestream.pe:19360/cvntumbes/cvntumbes.m3u8
+
+#EXTINF:-1 tvg-id="DACTV.pe" tvg-name="DAC TV" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/dac-tv-pe.png" group-title="Peru",DAC TV (720p)
+https://live-evg8.tv360.bitel.com.pe/bitel/dactvSRT/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DeltaTV.pe" tvg-name="Delta TV" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/delta-tv-pe.png" group-title="Peru",Delta TV (1080p)
+https://tv2.bitstreaming.net:3539/live/deltanetlive.m3u8
+
+#EXTINF:-1 tvg-id="DiasporaTV.pe" tvg-name="Diaspora TV" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/diaspora-tv-pe.png" group-title="Peru",Diaspora TV (720p)
+https://s1.tvdatta.com:3978/live/diasporatvlive.m3u8
+
+#EXTINF:-1 tvg-id="DobleC.pe" tvg-name="Doble C" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/doble-c-pe.png" group-title="Peru",Doble C (1080p)
+https://live20.bozztv.com/giatv/giatv-doblec1/doblec1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ECO TV.pe" tvg-name="ECO TV" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/eco-tv-pe.png" group-title="Peru",ECO TV (720p)
+https://stream.ecoperu.tv/ECOTV/index.m3u8
+
+#EXTINF:-1 tvg-id="Emanuel7TV.pe" tvg-name="Emanuel7 TV" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/emanuel7-tv-pe.png" group-title="Peru",Emanuel7 TV (360p)
+https://stmv6.voxtvhd.com.br/emanueltv/emanueltv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Exitosa.pe" tvg-name="Exitosa" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/exitosa-pe.png" group-title="Peru",Exitosa (720p)
+https://luna-4-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a451262/index.m3u8
+
+#EXTINF:-1 tvg-id="FolkloreTV.pe" tvg-name="Folklore TV" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/folklore-tv-pe.png" group-title="Peru",Folklore TV (720p)
+https://play.folkloretv.pe/StreamSD/index.m3u8
+
+#EXTINF:-1 tvg-id="ForoTV.pe" tvg-name="Foro TV" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/foro-tv-pe.png" group-title="Peru",Foro TV (720p)
+https://mc.servidor.stream:19360/8274/8274.m3u8
+
+#EXTINF:-1 tvg-id="FrecuenciaAmazonica.pe" tvg-name="Frecuencia Amazonica" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/frecuencia-amazonica-pe.png" group-title="Peru",Frecuencia Amazonica (720p)
+https://vivatv.juanjuiserver.com:3349/live/frecuenciaamazonicalive.m3u8
+
+#EXTINF:-1 tvg-id="GeniosTV.pe" tvg-name="Genios TV" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/genios-tv-pe.png" group-title="Peru",Genios TV (1080p)
+https://sc3.wasidata.com/Genios2_1902/video.m3u8
+
+#EXTINF:-1 tvg-id="GlobalTv.pe" tvg-name="Global Tv" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/global-tv-pe.png" group-title="Peru",Global TV (720p)
+https://live-evg7.tv360.bitel.com.pe/bitel/global_abr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HuachoTV.pe" tvg-name="Huacho TV" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/huacho-tv-pe.png" group-title="Peru",Huacho TV (720p)
+https://tv.huachotv.com/stream.m3u8
+
+#EXTINF:-1 tvg-id="ImpactodeCajamarca.pe" tvg-name="Impacto de Cajamarca" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/impacto-de-cajamarca-pe.png" group-title="Peru",Impacto de Cajamarca (480p)
+https://cloudvideo.servers10.com:8081/impactotv/index.m3u8
+
+#EXTINF:-1 tvg-id="ImpactoTV.pe" tvg-name="Impacto TV" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/impacto-tv-pe.png" group-title="Peru",Impacto TV (1080p)
+https://cloudpro.servidoresdestream.com:8081/8010/index.m3u8
+
+#EXTINF:-1 tvg-id="ImperialTV.pe" tvg-name="Imperial TV" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/imperial-tv-pe.png" group-title="Peru",Imperial TV (1080p)
+https://live-evg5.tv360.bitel.com.pe/bitel/imperialSRT/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Inkavision.pe" tvg-name="Inkavision" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/inkavision-pe.png" group-title="Peru",Inkavision (1080p)
+https://live-evg5.tv360.bitel.com.pe/bitel/inkavisionSRT/playlist.m3u8
+
+#EXTINF:-1 tvg-id="JN19TELEJUAN.pe" tvg-name="JN19" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/jn19-pe.png" group-title="Peru",JN19 (720p)
+https://servilive.com:3028/live/jntv19live.m3u8
+
+#EXTINF:-1 tvg-id="JNETV.pe" tvg-name="JNE TV" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/jne-tv-pe.png" group-title="Peru",JNE TV (720p)
+https://live20.bozztv.com/akamaissh101/ssh101/jnetv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KalienteTelevisión.pe" tvg-name="Kaliente Televisión" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/kaliente-televisión-pe.png" group-title="Peru",Kaliente Televisión (720p)
+https://lbgo.bozztv.com/ssh101/ssh101/kalientecusco/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LaFabulosaTV.pe" tvg-name="La Fabulosa TV" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/la-fabulosa-tv-pe.png" group-title="Peru",La Fabulosa TV (720p)
+https://eu1.servers10.com:8081/8004/index.m3u8
+
+#EXTINF:-1 tvg-id="LaTele.pe" tvg-name="La Tele" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/la-tele-pe.png" group-title="Peru",La Tele (576p)
+https://live-evg25.tv360.bitel.com.pe/bitel/latele/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Latina.pe" tvg-name="Latina" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/latina-pe.png" group-title="Peru",Latina (1080p)
+https://origin.dpsgo.com/ssai/event/oYQGDqEGTmGdHE_fz9oLlg/master.m3u8
+
+#EXTINF:-1 tvg-id="LatinaClasicos.pe" tvg-name="Latina Clasicos" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/latina-clasicos-pe.png" group-title="Peru",Latina Clasicos (1080p)
+https://jireh-7-hls-video-us-isp.dps.live/hls-video/plus226/latina2/latina2.smil/latina2/livestream2/chunks.m3u8
+
+#EXTINF:-1 tvg-id="LatinaNoticias.pe" tvg-name="Latina Noticias" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/latina-noticias-pe.png" group-title="Peru",Latina Noticias (1080p)
+https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latinanoticias/latinanoticias.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LiderTV.pe" tvg-name="Lider TV" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/lider-tv-pe.png" group-title="Peru",Lider TV (720p)
+https://chankillo.agenciastreaming.com/lidertv/index.m3u8
+
+#EXTINF:-1 tvg-id="LoNuestroTV.pe" tvg-name="Lo Nuestro TV" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/lo-nuestro-tv-pe.png" group-title="Peru",Lo Nuestro TV (720p)
+https://vivatv.juanjuiserver.com:3669/live/lonuestrolive.m3u8
+
+#EXTINF:-1 tvg-id="MasterTV.pe" tvg-name="Master TV" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/master-tv-pe.png" group-title="Peru",Master TV (720p)
+https://live-evg5.tv360.bitel.com.pe/bitel/mastertvSRT/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MediaTV.pe" tvg-name="Media TV" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/media-tv-pe.png" group-title="Peru",Media TV (720p)
+https://live-evg5.tv360.bitel.com.pe/bitel/mediatv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MegaTV.pe" tvg-name="Mega TV" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/mega-tv-pe.png" group-title="Peru",Mega TV (1080p)
+https://live-evg5.tv360.bitel.com.pe/bitel/megatv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MegaTVArequipa.pe" tvg-name="Mega TV Arequipa" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/mega-tv-arequipa-pe.png" group-title="Peru",Mega TV Arequipa (720p)
+https://megatv.streamottmas.workers.dev/chunks.m3u8
+
+#EXTINF:-1 tvg-id="MegaTVJaen.pe" tvg-name="Mega TV Jaen" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/mega-tv-jaen-pe.png" group-title="Peru",Mega TV Jaen (1080p)
+https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8
+
+#EXTINF:-1 tvg-id="MetropolitanadelCuzco.pe" tvg-name="Metropolitana del Cuzco" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/metropolitana-del-cuzco-pe.png" group-title="Peru",Metropolitana del Cuzco (480p)
+https://video1.earthcam.com/myearthcam/075ff02f78c35af55564cf3af3b3f750.flv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MielTV.pe" tvg-name="Miel TV" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/miel-tv-pe.png" group-title="Peru",Miel TV (1080p)
+https://live-evg5.tv360.bitel.com.pe/bitel/mieltvSRT/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MilenialTV.pe" tvg-name="Milenial TV" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/milenial-tv-pe.png" group-title="Peru",Milenial TV (1080p)
+https://vps.chasquirouter.com/salida/milenial.m3u8
+
+#EXTINF:-1 tvg-id="MilleniumRadioTV.pe" tvg-name="Millenium Radio TV" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/millenium-radio-tv-pe.png" group-title="Peru",Millenium Radio TV (720p)
+https://videoserver.tmcreativos.com:19360/nqvnhujhrx/nqvnhujhrx.m3u8
+
+#EXTINF:-1 tvg-id="MixTV.pe" tvg-name="Mix TV" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/mix-tv-pe.png" group-title="Peru",Mix TV (1080p)
+https://live-evg5.tv360.bitel.com.pe/bitel/mixtvSRT/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Monitor.pe" tvg-name="Monitor" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/monitor-pe.png" group-title="Peru",Monitor (720p)
+https://cloud5.streaminglivehd.com:3575/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-id="MonterricoTV.pe" tvg-name="Monterrico TV" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/monterrico-tv-pe.png" group-title="Peru",Monterrico TV (1080p)
+https://h.jcp.live.opencaster.com/play_src/index.m3u8
+
+#EXTINF:-1 tvg-id="NacionalTVPeru.pe" tvg-name="Nacional TV Peru" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/nacional-tv-peru-pe.png" group-title="Peru",Nacional TV Peru (720p)
+https://play.agenciastreaming.com:8081/nacionaltv/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-id="Nativa.pe" tvg-name="Nativa" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/nativa-pe.png" group-title="Peru",Nativa (720p)
+https://oneplay.iptvperu.tv:1936/static/nativa1.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NativaTvSatipo.pe" tvg-name="Nativa Tv Satipo" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/nativa-tv-satipo-pe.png" group-title="Peru",Nativa TV Satipo (1080p)
+https://live-evg7.tv360.bitel.com.pe/bitel/nativachanchamayoSRT/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NeoTV.pe" tvg-name="Neo TV" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/neo-tv-pe.png" group-title="Peru",Neo TV (720p)
+https://live-evg7.tv360.bitel.com.pe/bitel/neotvSRT/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NexTV.pe" tvg-name="Nex TV" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/nex-tv-pe.png" group-title="Peru",Nex TV (1080p)
+https://play.agenciastreaming.com:8081/nextv/video.m3u8
+
+#EXTINF:-1 tvg-id="NuestroCanal.pe" tvg-name="Nuestro Canal" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/nuestro-canal-pe.png" group-title="Peru",Nuestro Canal (1080p)
+https://ia.cpustream.com/nuestrocanal/video.m3u8
+https://live-evg7.tv360.bitel.com.pe/bitel/ncanalSRT/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NZKTelevisiona.pe" tvg-name="NZK Television" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/nzk-television-pe.png" group-title="Peru",NZK Television (720p)
+https://eu1.servers10.com:8081/8258/index.m3u8
+
+#EXTINF:-1 tvg-id="OKTeVe.pe" tvg-name="OK TeVe" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/ok-teve-pe.png" group-title="Peru",OK TeVe (720p)
+https://live.obslivestream.com/oktv/index.m3u8
+
+#EXTINF:-1 tvg-id="OndaDigital.pe" tvg-name="Onda Digital" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/onda-digital-pe.png" group-title="Peru",Onda Digital (1080p)
+https://tv.ondadigital.pe/ondadigital/index.m3u8
+
+#EXTINF:-1 tvg-id="OndaTV.pe" tvg-name="Onda TV" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/onda-tv-pe.png" group-title="Peru",Onda TV (720p)
+https://live-evg5.tv360.bitel.com.pe/bitel/onda/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Ovacion.pe" tvg-name="Ovacion" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/ovacion-pe.png" group-title="Peru",Ovacion (1080p)
+https://5949aa132c8fb.streamlock.net:1963/iptvovacion2/liveovacion2tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="OzonoTV.pe" tvg-name="Ozono TV" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/ozono-tv-pe.png" group-title="Peru",Ozono TV (720p)
+http://vps.chasquirouter.com/salida/ozono.m3u8
+
+#EXTINF:-1 tvg-id="PalmerasTV.pe" tvg-name="Palmeras TV" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/palmeras-tv-pe.png" group-title="Peru",Palmeras TV (720p)
+https://play.agenciastreaming.com:8081/palmerastv/index.m3u8
+
+#EXTINF:-1 tvg-id="PanamericanaTelevision.pe" tvg-name="Panamericana Television" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/panamericana-television-pe.png" group-title="Peru",Panamericana Televisión (1080p)
+http://181.224.255.210:8001/play/a0s5/index.m3u8
+
+#EXTINF:-1 tvg-id="PanamericanaTelevision.pe" tvg-name="Panamericana Television" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/panamericana-television-pe.png" group-title="Peru",Panamericana Televisión (480p) [Opc.2]
+http://181.224.255.210:8001/play/a0r6/index.m3u8
+
+#EXTINF:-1 tvg-id="PBO.pe" tvg-name="PBO" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/pbo-pe.png" group-title="Peru",PBO (720p)
+https://live-evg11.tv360.bitel.com.pe/bitel/pbo_abr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PequesTV.pe" tvg-name="Peques TV" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/peques-tv-pe.png" group-title="Peru",Peques TV (1080p)
+https://live-evg7.tv360.bitel.com.pe/bitel/pequestv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PiuraTV.pe" tvg-name="PiuraTV" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/piuratv-pe.png" group-title="Peru",PiuraTV (720p)
+https://live-evg7.tv360.bitel.com.pe/bitel/piuratvSRT/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PlaneaTV.pe" tvg-name="Planea TV" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/planea-tv-pe.png" group-title="Peru",Planea TV (1080p)
+https://live-evg8.tv360.bitel.com.pe/bitel/planeatvSRT/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PrattelTV.pe" tvg-name="Prattel TV" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/prattel-tv-pe.png" group-title="Peru",Prattel TV (720p)
+https://lbgo.bozztv.com/ssh101/ssh101/pratteltvperu/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Primavera15.pe" tvg-name="Primavera 15" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/primavera-15-pe.png" group-title="Peru",Primavera 15 (720p)
+https://mc.servidor.stream:19360/8244/8244.m3u8
+
+#EXTINF:-1 tvg-id="QollasuyoTV.pe" tvg-name="Qollasuyo TV" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/qollasuyo-tv-pe.png" group-title="Peru",Qollasuyo TV (720p)
+https://live-evg5.tv360.bitel.com.pe/bitel/qollasuyotv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="QosqoTimes.pe" tvg-name="Qosqo Times" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/qosqo-times-pe.png" group-title="Peru",Qosqo Times (1080p)
+https://live-evg5.tv360.bitel.com.pe/bitel/qosqo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RadioChalaca.pe" tvg-name="Radio Chalaca" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/radio-chalaca-pe.png" group-title="Peru",Radio Chalaca (1080p)
+https://servilive.com:3414/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-id="RadioMaster.pe" tvg-name="Radio Master" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/radio-master-pe.png" group-title="Peru",Radio Master (1080p)
+https://videoserver.tmcreativos.com:19360/radiomaster/radiomaster.m3u8
+
+#EXTINF:-1 tvg-id="RadioOndaDigital.pe" tvg-name="Radio Onda Digital" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/radio-onda-digital-pe.png" group-title="Peru",Radio Onda Digital (1080p)
+https://live.ondadigitaltv.com/RADIOODTV/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-id="RadioRumbaTV.pe" tvg-name="Radio Rumba TV" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/radio-rumba-tv-pe.png"group-title="Peru",Radio Rumba TV (720p)
+https://tv.sistemasandinos.org/rumbatv/video.m3u8
+
+#EXTINF:-1 tvg-id="RadioSanBorjaTV.pe" tvg-name="Radio San Borja TV" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/radio-san-borja-tv-pe.png" group-title="Peru",Radio San Borja TV (1080p)
+https://stream.mediacorp.pe/srt/3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RadioTropicalTarapoto.pe" tvg-name="Radio Tropical Tarapoto" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/radio-tropical-tarapoto-pe.png" group-title="Peru",Radio Tropical Tarapoto (720p)
+https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8
+
+#EXTINF:-1 tvg-id="RadioTVOriente.pe" tvg-name="Radio TV Oriente" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/radiotv-oriente-pe.png" group-title="Peru",Radio TV Oriente (720p)
+https://live.obslivestream.com/tvoriente/index.m3u8
+
+#EXTINF:-1 tvg-id="RadioUnoTacna.pe" tvg-name="Radio Uno Tacna" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/radio-uno-tacna-pe.png" group-title="Peru",Radio Uno Tacna (720p)
+https://live-evg7.tv360.bitel.com.pe/bitel/radiounotv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RCR.pe" tvg-name="RCR" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/rcr-pe.png" group-title="Peru",RCR (720p)
+https://5949aa132c8fb.streamlock.net:1963/iptvrcrperu/livercrperutv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RealTV.pe" tvg-name="Real TV" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/real-tv-pe.png" group-title="Peru",Real TV (720p)
+https://live-evg10.tv360.bitel.com.pe/bitel/realtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RegionTVCallao.pe" tvg-name="Region TV Callao" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/region-tv-callao-pe.png" group-title="Peru",Region TV Callao (1080p)
+https://live-evg7.tv360.bitel.com.pe/bitel/regiontvSRT/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RikuTV.pe" tvg-name="Riku TV" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/riku-tv-pe.png" group-title="Peru",Riku TV (1080p)
+https://amixtv.com:8081/rikutv/index.m3u8
+
+#EXTINF:-1 tvg-id="RNTelevision.pe" tvg-name="RN Televisión" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/rn-television-pe.png" group-title="Peru",RN Televisión (480p)
+https://videoserver.tmcreativos.com:19360/rnyurimaguas/rnyurimaguas.m3u8
+
+#EXTINF:-1 tvg-id="RppTV.pe" tvg-name="RPP" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/rpp-pe.png" group-title="Peru",RPP (1080p)
+https://cdn-ssai.smartbit.co/rpp/index.m3u8
+
+#EXTINF:-1 tvg-id="RTP.pe" tvg-name="RTP" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/rtp-pe.png" group-title="Peru",RTP (720p)
+https://live-evg7.tv360.bitel.com.pe/bitel/rtp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SaborMix.pe" tvg-name="Sabor Mix" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/sabor-mix-pe.png" group-title="Peru",Sabor Mix (1080p)
+https://live-evg7.tv360.bitel.com.pe/bitel/sabormixtvSRT/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SanjuaneraTV.pe" tvg-name="Sanjuanera TV" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/sanjuanera-tv-pe.png" group-title="Peru",Sanjuanera TV (1080p)
+https://infosmartpe.store:5443/LiveApp/streams/3zc2BXi5SEys2310139330128741.m3u8
+
+#EXTINF:-1 tvg-id="SanPedroSAT.pe" tvg-name="San Pedro SAT" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/san-pedro-sat-pe.png" group-title="Peru",San Pedro SAT (1080p)
+https://eu1.servers10.com:8081/8156/index.m3u8
+
+#EXTINF:-1 tvg-id="Selvatica.pe" tvg-name="Selvatica" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/selvatica-pe.png" group-title="Peru",Selvatica (480p)
+https://live-evg11.tv360.bitel.com.pe/bitel/selvaticaSRT/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SelvaTV.pe" tvg-name="Selva TV" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/selva-tv-pe.png" group-title="Peru",Selva TV (480p)
+https://videoserver.tmcreativos.com:19360/selvatv/selvatv.m3u8
+
+#EXTINF:-1 tvg-id="SenalPeruTV.pe" tvg-name="Señal Peru TV" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/senal-peru-tv-pe.png" group-title="Peru",Señal Peru TV (720p)
+https://livestream.perucast.com/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="SolarTVCusco.pe" tvg-name="Solar TV Cusco" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/solar-tv-cusco-pe.png" group-title="Peru",Solar TV Cusco (1080p)
+https://stmv2.srvif.com/solartv/solartv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SolTV.pe" tvg-name="Sol TV" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/sol-tv-pe.png" group-title="Peru",Sol TV (720p)
+https://live20.bozztv.com/giatv/giatv-soltvenvivo/soltvenvivo/chunks.m3u8
+
+#EXTINF:-1 tvg-id="StudioPascoTV.pe" tvg-name="Studio Pasco TV" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/studio-pasco-tv-pe.png" group-title="Peru",Studio Pasco TV (1080p)
+https://live-evg7.tv360.bitel.com.pe/bitel/studiopasco/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SuperCanal.pe" tvg-name="Super Canal" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/super-canal-pe.png" group-title="Peru",Super Canal (720p)
+https://live.obslivestream.com/supercanal/index.m3u8
+
+#EXTINF:-1 tvg-id="TelecolorTV.pe" tvg-name="Telecolor TV" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/telecolor-tv-pe.png" group-title="Peru",Telecolor TV (1080p)
+https://live.obslivestream.com/telecolormux/index.m3u8
+
+#EXTINF:-1 tvg-id="Telelima.pe" tvg-name="Telelima" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/telelima-pe.png" group-title="Peru",Telelima (1080p)
+https://live.telelima.net/web/index.m3u8
+
+#EXTINF:-1 tvg-id="Teleselva.pe" tvg-name="Teleselva" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/teleselva-pe.png" group-title="Peru",Teleselva (720p)
+https://7.innovatestream.pe:19360/tvnoticiassatipo/tvnoticiassatipo.m3u8
+
+#EXTINF:-1 tvg-id="TelesystemTV.pe" tvg-name="Tele System TV" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/tele-system-tv-pe.png" group-title="Peru",Tele System TV (480p)
+https://fsplaystreams.ddns.net/canales/1084_.m3u8
+
+#EXTINF:-1 tvg-id="TelevisionTarapoto.pe" tvg-name="Television Tarapoto" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/television-tarapoto-pe.png" group-title="Peru",Televisión Tarapoto (1080p)
+https://ott1.hdlatam.tv/live_abr/webtvTarapotoPe/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Tevesur.pe" tvg-name="Tevesur"tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/tevesur-pe.png" group-title="Peru",Tevesur (1080p)
+https://live-evg11.tv360.bitel.com.pe/bitel/tevesurSRT/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TOPLatinoTV.pe" tvg-name="TOP Latino TV" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/top-latino-tv-pe.png" group-title="Peru",TOP Latino TV (404p) [Revisar no funciona]
+https://5cefcbf58ba2e.streamlock.net:543/webtltv/webtltv.stream/chunklist_w381950017_tkd293emF0b2tlbnN0YXJ0dGltZT0xNzgyMzMwNTI4Jndvd3phdG9rZW5lbmR0aW1lPTE3ODIzMzE1Mjgmd293emF0b2tlbmhhc2g9b1dsNDlBWTVyR0N2SWZqbnFpNTNiMEtiZ0wyamlXVUw2Vkh5UG1kS0RScz0=.m3u8
+
+#EXTINF:-1 tvg-id="TOP TV.pe" tvg-name="TOP TV" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/top-tv-pe.png" group-title="Peru",TOP TV (720p)
+https://tvdatta.com:3084/live/toptvaguaytialive.m3u8
+
+#EXTINF:-1 tvg-id="Trivu.pe" tvg-name="Trivu" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/trivu-pe.png" group-title="Peru",Trivu (1080p) [Revisar no funciona]
+https://www.chasquirouter.com/salida/sd/trivu.m3u8
+
+#EXTINF:-1 tvg-id="TurboMixRadioTV.pe" tvg-name="Turbo Mix Radio TV" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/turbo-mix-radio-tv-pe.png" group-title="Peru",Turbo Mix Radio TV (1080p)
+https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8
+
+#EXTINF:-1 tvg-id="TVBellaAsunción.pe" tvg-name="TV Bella Asunción" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/tv-bella-asunción-pe.png" group-title="Peru",TV Bella Asunción (720p)
+https://s2.tvdatta.com:3687/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-id="TVCosmos.pe" tvg-name="TV Cosmos" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/tv-cosmos-pe.png" group-title="Peru",TV Cosmos (480p)
+https://videoserver.tmcreativos.com:19360/tvcosmos/tvcosmos.m3u8
+
+#EXTINF:-1 tvg-id="TVenlineaCusco.pe" tvg-name="TV en linea Cusco" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/tv-en-linea-cusco-pe.png" group-title="Peru",TV en linea Cusco (1080p)
+https://srt.tvdatta.com/tvenlinea/index.m3u8
+
+#EXTINF:-1 tvg-id="TVMAR.pe" tvg-name="TV MAR" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/tv-mar-pe.png" group-title="Peru",TV MAR (1080p)
+https://live-evg11.tv360.bitel.com.pe/bitel/tvmarSRT/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVNorteChiclayo.pe" tvg-name="TV Norte Chiclayo" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/tv-norte-chiclayo-pe.png" group-title="Peru",TV Norte Chiclayo (720p)
+https://live-evg5.tv360.bitel.com.pe/bitel/tvnorte/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVOne.pe" tvg-name="TV One" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/tv-one-pe.png" group-title="Peru",TV One (324p)
+https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVPeru.pe" tvg-name="TV Peru" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/tv-peru-pe.png" group-title="Peru",TV Peru (1080p)
+https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf7.m3u8
+
+#EXTINF:-1 tvg-id="TVPeruInternacional.pe" tvg-name="TV Peru Internacional" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/tv-peru-internacional-pe.png" group-title="Peru",TV Peru Internacional (460p)
+https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c27.m3u8
+
+#EXTINF:-1 tvg-id="TVperuanisima.pe" tvg-name="TVperuanisima" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/tvperuanisima-pe.png" group-title="Peru",TVperuanisima (720p)
+https://k20.usastreams.com:8081/tvperuanisima/index.m3u8
+
+#EXTINF:-1 tvg-id="TVPlusChincha.pe" tvg-name="TV Plus Chincha" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/tv-plus-chincha-pe.png" group-title="Peru",TV Plus Chincha (720p)
+https://live-evg11.tv360.bitel.com.pe/bitel/tvchincha/playlist.m3u8
+
+#EXTINF:-1 tvg-id="UcayalinaTV.pe" tvg-name="Ucayalina TV" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/ucayalina-tv-pe.png" group-title="Peru",Ucayalina TV (1080p)
+https://play.agenciastreaming.com:8081/supertv/video.m3u8
+
+#EXTINF:-1 tvg-id="UcayaliTV.pe" tvg-name="Ucayali TV" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/ucayali-tv-pe.png" group-title="Peru",Ucayali TV (1080p)
+https://live-evg11.tv360.bitel.com.pe/bitel/ucayalitvSRT/playlist.m3u8
+
+#EXTINF:-1 tvg-id="UnicentroTV.pe" tvg-name="Unicentro TV" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/unicentro-tv-pe.png" group-title="Peru",Unicentro TV (1080p)
+https://cablered.iptvperu.tv:1936/cablered/unicentro.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="UnifeTV.pe" tvg-name="Unife TV" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/unife-tv-pe.png" group-title="Peru",Unife TV (720p)
+https://cdn.mycloudstream.io/hls/live/broadcast/xundwjvp/index.m3u8
+
+#EXTINF:-1 tvg-id="UnitelTV.pe" tvg-name="Unitel TV" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/unitel-tv-pe.png" group-title="Peru",Unitel TV (1080p)
+https://play.agenciastreaming.com:8081/uniteltv/index.m3u8
+
+#EXTINF:-1 tvg-id="Uranio.pe" tvg-name="Uranio" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/uranio-pe.png" group-title="Peru",Uranio (720p)
+https://live-evg11.tv360.bitel.com.pe/bitel/uraniotv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="UranioTV.pe" tvg-name="Uranio TV" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/uranio-tv-pe.png" group-title="Peru",Uranio TV (720p)
+https://live.obslivestream.com/uraniotv/index.m3u8
+
+#EXTINF:-1 tvg-id="UrbanaTV.pe" tvg-name="Urbana TV" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/urbana-tv-pe.png" group-title="Peru",Urbana TV (1080p)
+https://live-evg10.tv360.bitel.com.pe/bitel/urbanatv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="UsmpTV.pe" tvg-name="Usmp TV" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/usmptv-pe.png" group-title="Peru",USMP TV (720p)
+https://streamusmptv.ddns.net/live/stream.m3u8
+
+#EXTINF:-1 tvg-id="ViaAltomayoTV.pe" tvg-name="Via Alto Mayo TV" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/via-alto-mayo-tv-pe.png" group-title="Peru",Via Alto Mayo TV (720p)
+https://live.obslivestream.com/viaaltomayomux/index.m3u8
+
+#EXTINF:-1 tvg-id="ViaTV.pe" tvg-name="Via TV" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/via-tv-pe.png" group-title="Peru",Via TV (720p)
+https://videoserver.tmcreativos.com:19360/cablerasvia/cablerasvia.m3u8
+
+#EXTINF:-1 tvg-id="VisionMusicaTV.pe" tvg-name="Vision Musica TV" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/vision-musica-tv-pe.png" group-title="Peru",Vision Musica TV (720p)
+https://videoserver.tmcreativos.com:19360/visionmusica/visionmusica.m3u8
+
+#EXTINF:-1 tvg-id="Vision.pe" tvg-name="Vision" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/vision-pe.png" group-title="Peru",Vision (480p)
+https://lbgo.bozztv.com/ssh101/ssh101/visiononline/playlist.m3u8
+
+#EXTINF:-1 tvg-id="VisionSur.pe" tvg-name="Vision Sur" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/vision-sur-pe.png" group-title="Peru",Vision Sur (1080p)
+https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8
+
+#EXTINF:-1 tvg-id="VivaTV.pe" tvg-name="Viva TV Yurimaguas" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/viva-tv-yurimaguas-pe.png" group-title="Peru",Viva TV Yurimaguas (720p)
+https://live.obslivestream.com/vivatv/index.m3u8
+
+#EXTINF:-1 tvg-id="VZTV.pe" tvg-name="VZ TV" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/vz-tv-pe.png" group-title="Peru",VZ TV (1080p)
+https://www.vztv.online/canalvztelevisionweb/index.m3u8
+
+#EXTINF:-1 tvg-id="WayraTV.pe" tvg-name="Wayra TV" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/wayra-tv-pe.png" group-title="Peru",Wayra TV (1080p)
+https://live-evg11.tv360.bitel.com.pe/bitel/wayratv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Willax.pe" tvg-name="Willax" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/willax-pe.png" group-title="Peru",Willax (720p)
+http://181.224.255.210:8001/play/a0s7/index.m3u8
+
+#EXTINF:-1 tvg-id="WOWTV.pe" tvg-name="WOW TV" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/wow-tv-pe.png" group-title="Peru",WOW TV (1080p) No es de Peru país origen El Salvador
+https://service.cdn-stream.com/wow/wow_tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="YurimaguasTV.pe" tvg-name="Yurimaguas TV" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/yurimaguas-tv-pe.png" group-title="Peru",Yurimaguas TV (720p)
+https://live.obslivestream.com/yurimaguastelevision/index.m3u8
+
+#EXTINF:-1 tvg-id="Yurivision.pe" tvg-name="Yurivision" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/yurivision-pe.png" group-title="Peru",Yurivision (1080p)
+https://live-evg5.tv360.bitel.com.pe/bitel/yurivisionSRT/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ZeleveTV.pe" tvg-name="Zeleve TV" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/zeleve-tv-pe.png" group-title="Peru",Zeleve TV (720p)
+https://7.innovatestream.pe:19360/zelevetv/zelevetv.m3u8
