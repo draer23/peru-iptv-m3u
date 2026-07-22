@@ -444,7 +444,7 @@ https://live-evg11.tv360.bitel.com.pe/bitel/tvmarSRT/playlist.m3u8
 #EXTINF:-1 tvg-id="TVNorteChiclayo.pe" tvg-name="TV Norte Chiclayo" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/tv-norte-chiclayo-pe.png" group-title="📺 Regionales",TV Norte Chiclayo (720p)
 https://live-evg5.tv360.bitel.com.pe/bitel/tvnorte/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVOne.pe" tvg-name="TV One" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/tv-one-pe.png" group-title="🎭 Entretenimiento",TV One (324p)
+#EXTINF:-1 tvg-id="TVOne.pe" tvg-name="TV One Peru" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/tv-one-pe.png" group-title="🎭 Entretenimiento",TV One Peru (324p)
 https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVPeru.pe" tvg-name="TV Peru Noticias" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/tv-peru-pe.png" group-title="🇵🇪 TV Nacional",TV Peru Noticias (1080p)
