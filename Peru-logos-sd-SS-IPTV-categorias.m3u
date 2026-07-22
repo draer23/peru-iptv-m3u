@@ -17,7 +17,7 @@ https://live-evg10.tv360.bitel.com.pe/bitel/abctv/playlist.m3u8
 #EXTINF:-1 tvg-id="ABTelevision.pe" tvg-name="ABTelevision" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/abtelevision-pe.png" group-title="📺 Regionales",ABTelevision (1080p) [Duda si es corecto la url revisar]
 https://live-evg8.tv360.bitel.com.pe/bitel/abctelevisionSRT/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AgroTV.pe" tvg-name="Agro TV" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/agro-tv-pe.png" group-title="🎓 Educación y Cultura",Agro TV (720p)
+#EXTINF:-1 tvg-id="AgroTV.pe" tvg-name="Agro TV Peru" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/agro-tv-pe.png" group-title="🎓 Educación y Cultura",Agro TV Peru (720p)
 https://play.agenciastreaming.com:8081/agrotv/index.m3u8
 
 #EXTINF:-1 tvg-id="AlbriciasTV.pe" tvg-name="Albricias TV" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/albricias-tv-pe.png" group-title="🙏 Religiosos",Albricias TV (1080p)
