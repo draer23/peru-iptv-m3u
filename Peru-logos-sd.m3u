@@ -29,10 +29,10 @@ https://play.agenciastreaming.com:8081/redalphatv/index.m3u8
 #EXTINF:-1 tvg-id="AmazonicaTV.pe" tvg-name="Amazonica TV" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/amazonica-tv-pe.png" group-title="Peru",Amazonica TV (480p)
 https://videoserver.tmcreativos.com:19360/amazonicatv/amazonicatv.m3u8
 
-#EXTINF:-1 tvg-id="AmericaTelevision.pe" tvg-name="América TV" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/america-tv-pe.png" group-title="Peru",América TV (1080p)
+#EXTINF:-1 tvg-id="AmericaTelevision.pe" tvg-name="America TV" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/america-tv-pe.png" group-title="Peru",America TV (1080p)
 http://205.235.6.29:8000/play/a0ut/index.m3u8
 
-#EXTINF:-1 tvg-id="AmericaTelevision.pe" tvg-name="América TV" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/america-tv-pe.png" group-title="Peru",América TV (1080p)
+#EXTINF:-1 tvg-id="AmericaTelevision.pe" tvg-name="America TV" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/america-tv-pe.png" group-title="Peru",America TV (1080p)
 http://181.224.255.210:8001/play/a0pj/index.m3u8
 
 #EXTINF:-1 tvg-id="AndesTelevision.pe" tvg-name="Andes TV" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/andes-tv-pe.png" group-title="Peru",Andes TV (1080p)
