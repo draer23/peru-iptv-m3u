@@ -399,6 +399,9 @@ https://videoserver.tmcreativos.com:19360/tvcosmos/tvcosmos.m3u8
 #EXTINF:-1 tvg-id="TVenlineaCusco.pe" tvg-name="TV en linea Cusco" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/tv-en-linea-cusco-pe.png" group-title="📺 Regionales",TV en linea Cusco (1080p)
 https://srt.tvdatta.com/tvenlinea/index.m3u8
 
+#EXTINF:-1 tvg-id="TVLibertad.pe" tvg-name="TV Libertad" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/tv-libertad-pe.png" group-title="📺 Regionales",TV Libertad (1080p)
+https://stream-us-east-1.getpublica.com/cl/260723d9h9ruc0u3jc73cb4j60/1920x1080_4953537_0_f.m3u8?i=1187_15088
+
 #EXTINF:-1 tvg-id="TVMAR.pe" tvg-name="TV MAR" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/tv-mar-pe.png" group-title="📺 Regionales",TV MAR (1080p)
 https://live-evg11.tv360.bitel.com.pe/bitel/tvmarSRT/playlist.m3u8
 
