@@ -173,6 +173,9 @@ https://servilive.com:3028/live/jntv19live.m3u8
 #EXTINF:-1 tvg-id="KalienteTelevisión.pe" tvg-name="Kaliente Televisión" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/kaliente-televisión-pe.png" group-title="🎵 Música",Kaliente Televisión (720p)
 https://lbgo.bozztv.com/ssh101/ssh101/kalientecusco/playlist.m3u8
 
+#EXTINF:-1 tvg-id="L1MAX.pe" tvg-name="L1 MAX" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/l1-max-pe.png" group-title="⚽ Deportes",L1 MAX (1080p)
+http://181.224.255.210:8001/play/a0sf/index.m3u8?hls
+
 #EXTINF:-1 tvg-id="LaFabulosaTV.pe" tvg-name="La Fabulosa TV" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/la-fabulosa-tv-pe.png" group-title="🎵 Música",La Fabulosa TV (720p)
 https://eu1.servers10.com:8081/8004/index.m3u8
 
