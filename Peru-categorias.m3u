@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://www.open-epg.com/files/peru.xml"
 
 ##########################################
-# 🇵🇪 PERU (161)
+# 🇵🇪 PERU (159)
 ##########################################
 
 #EXTINF:-1 tvg-id="36TVHuacho.pe" tvg-name="36 TV Huacho" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/36-tv-huacho-pe.png" group-title="📺 Regionales",36 TV Huacho (1080p)
@@ -420,9 +420,6 @@ https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8
 #EXTINF:-1 tvg-id="TVPeru.pe" tvg-name="TV Peru" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/tv-peru-pe.png" group-title="🇵🇪 TV Nacional",TV Peru (1080p)
 https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf7.m3u8
 
-#EXTINF:-1 tvg-id="TVPeruInternacional.pe" tvg-name="TV Peru Internacional" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/tv-peru-internacional-pe.png" group-title="🌍 Internacional",TV Peru Internacional (460p)
-https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c27.m3u8
-
 #EXTINF:-1 tvg-id="TVperuanisima.pe" tvg-name="TVperuanisima" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/tvperuanisima-pe.png" group-title="🎵 Música",TVperuanisima (720p)
 https://k20.usastreams.com:8081/tvperuanisima/index.m3u8
 
@@ -482,9 +479,6 @@ https://live-evg11.tv360.bitel.com.pe/bitel/wayratv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Willax.pe" tvg-name="Willax" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/willax-pe.png" group-title="📰 Noticias",Willax (720p)
 http://181.224.255.210:8001/play/a0s7/index.m3u8
-
-#EXTINF:-1 tvg-id="WOWTV.pe" tvg-name="WOW TV" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/wow-tv-pe.png" group-title="🌍 Internacional",WOW TV (1080p) No es de Peru país origen El Salvador
-https://service.cdn-stream.com/wow/wow_tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="YurimaguasTV.pe" tvg-name="Yurimaguas TV" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/yurimaguas-tv-pe.png" group-title="📺 Regionales",Yurimaguas TV (720p)
 https://live.obslivestream.com/yurimaguastelevision/index.m3u8
