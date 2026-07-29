@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="AgroTV.pe" tvg-name="Agro TV" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/agro-tv-pe.png" group-title="🎓 Educación y Cultura",Agro TV (720p)
+#EXTINF:-1 tvg-id="AgroTV.pe" tvg-name="Agro TV Peru" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/agro-tv-pe.png" group-title="🎓 Educación y Cultura",Agro TV Peru (720p)
 https://play.agenciastreaming.com:8081/agrotv/index.m3u8
 
 #EXTINF:-1 tvg-id="CanalIPe.pe" tvg-name="Canal IPe" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/canal-IPe-pe.png" group-title="🎓 Educación y Cultura",Canal IPe (1080p)

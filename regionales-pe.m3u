@@ -78,7 +78,7 @@ https://live-evg5.tv360.bitel.com.pe/bitel/imperialSRT/playlist.m3u8
 #EXTINF:-1 tvg-id="Inkavision.pe" tvg-name="Inkavision" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/inkavision-pe.png" group-title="📺 Regionales",Inkavision (1080p)
 https://live-evg5.tv360.bitel.com.pe/bitel/inkavisionSRT/playlist.m3u8
 
-#EXTINF:-1 tvg-id="LiderTV.pe" tvg-name="Lider TV" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/lider-tv-pe.png" group-title="📺 Regionales",Lider TV (720p)
+#EXTINF:-1 tvg-id="LiderTV.pe" tvg-name="Lider TV Peru" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/lider-tv-pe.png" group-title="📺 Regionales",Lider TV Peru (720p)
 https://chankillo.agenciastreaming.com/lidertv/index.m3u8
 
 #EXTINF:-1 tvg-id="MasterTV.pe" tvg-name="Master TV" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/master-tv-pe.png" group-title="📺 Regionales",Master TV (720p)
@@ -87,7 +87,7 @@ https://live-evg5.tv360.bitel.com.pe/bitel/mastertvSRT/playlist.m3u8
 #EXTINF:-1 tvg-id="MediaTV.pe" tvg-name="Media TV" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/media-tv-pe.png" group-title="📺 Regionales",Media TV (720p)
 https://live-evg5.tv360.bitel.com.pe/bitel/mediatv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MegaTV.pe" tvg-name="Mega TV" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/mega-tv-pe.png" group-title="📺 Regionales",Mega TV (1080p)
+#EXTINF:-1 tvg-id="MegaTV.pe" tvg-name="Mega TV Peru" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/mega-tv-pe.png" group-title="📺 Regionales",Mega TV Peru (1080p)
 https://live-evg5.tv360.bitel.com.pe/bitel/megatv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MegaTVArequipa.pe" tvg-name="Mega TV Arequipa" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/mega-tv-arequipa-pe.png" group-title="📺 Regionales",Mega TV Arequipa (720p)
@@ -174,7 +174,7 @@ https://fsplaystreams.ddns.net/canales/1084_.m3u8
 #EXTINF:-1 tvg-id="TelevisionTarapoto.pe" tvg-name="Television Tarapoto" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/television-tarapoto-pe.png" group-title="📺 Regionales",Televisión Tarapoto (1080p)
 https://ott1.hdlatam.tv/live_abr/webtvTarapotoPe/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TOP TV.pe" tvg-name="TOP TV" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/top-tv-pe.png" group-title="📺 Regionales",TOP TV (720p)
+#EXTINF:-1 tvg-id="TOP TV.pe" tvg-name="TOP TV Peru" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/top-tv-pe.png" group-title="📺 Regionales",TOP TV Peru (720p)
 https://tvdatta.com:3084/live/toptvaguaytialive.m3u8
 
 #EXTINF:-1 tvg-id="TVBellaAsunción.pe" tvg-name="TV Bella Asunción" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/tv-bella-asunción-pe.png" group-title="📺 Regionales",TV Bella Asunción (720p)

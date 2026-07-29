@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="BethelTV.pe" tvg-name="Bethel TV" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/bethel-tv-pe.png" group-title="🙏 Religiosos",Bethel TV (720p)
+#EXTINF:-1 tvg-id="BethelTV.pe" tvg-name="Bethel TV Peru" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/bethel-tv-pe.png" group-title="🙏 Religiosos",Bethel TV Peru (720p)
 https://alfa.betheltv.tv/srt/3_abr/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Emanuel7TV.pe" tvg-name="Emanuel7 TV" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/emanuel7-tv-pe.png" group-title="🙏 Religiosos",Emanuel7 TV (360p)

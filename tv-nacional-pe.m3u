@@ -1,22 +1,22 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="AmericaTelevision.pe" tvg-name="America TV" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/america-tv-pe.png" group-title="🇵🇪 TV Nacional",America TV (1080p)
+#EXTINF:-1 tvg-id="AmericaTelevision.pe" tvg-name="America TV Peru" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/america-tv-pe.png" group-title="🇵🇪 TV Nacional",America TV Peru (1080p)
 http://205.235.6.29:8000/play/a0ut/index.m3u8
 
-#EXTINF:-1 tvg-id="AmericaTelevision.pe" tvg-name="America TV" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/america-tv-pe.png" group-title="🇵🇪 TV Nacional",America TV (1080p)
+#EXTINF:-1 tvg-id="AmericaTelevision.pe" tvg-name="America TV Peru" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/america-tv-pe.png" group-title="🇵🇪 TV Nacional",America TV Peru (1080p)
 http://181.224.255.210:8001/play/a0pj/index.m3u8
 
-#EXTINF:-1 tvg-id="ATV.pe" tvg-name="ATV" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/atv-pe.png" group-title="🇵🇪 TV Nacional",ATV (1080p)
+#EXTINF:-1 tvg-id="ATV.pe" tvg-name="ATV Peru" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/atv-pe.png" group-title="🇵🇪 TV Nacional",ATV Peru (1080p)
 http://181.224.255.210:8001/play/a0s6/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="Latina.pe" tvg-name="Latina" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/latina-pe.png" group-title="🇵🇪 TV Nacional",Latina (1080p)
+#EXTINF:-1 tvg-id="Latina.pe" tvg-name="Latina Peru" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/latina-pe.png" group-title="🇵🇪 TV Nacional",Latina Peru (1080p)
 https://origin.dpsgo.com/ssai/event/oYQGDqEGTmGdHE_fz9oLlg/master.m3u8
 
-#EXTINF:-1 tvg-id="PanamericanaTelevision.pe" tvg-name="Panamericana Television" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/panamericana-television-pe.png" group-title="🇵🇪 TV Nacional",Panamericana Televisión (1080p)
+#EXTINF:-1 tvg-id="PanamericanaTelevision.pe" tvg-name="Panamericana Television Peru" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/panamericana-television-pe.png" group-title="🇵🇪 TV Nacional",Panamericana Television Peru (1080p)
 http://181.224.255.210:8001/play/a0s5/index.m3u8
 
-#EXTINF:-1 tvg-id="PanamericanaTelevision.pe" tvg-name="Panamericana Television" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/panamericana-television-pe.png" group-title="🇵🇪 TV Nacional",Panamericana Televisión (480p)
+#EXTINF:-1 tvg-id="PanamericanaTelevision.pe" tvg-name="Panamericana Television Peru" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/panamericana-television-pe.png" group-title="🇵🇪 TV Nacional",Panamericana Television Peru (480p)
 http://181.224.255.210:8001/play/a0r6/index.m3u8
 
-#EXTINF:-1 tvg-id="TVPeru.pe" tvg-name="TV Peru" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/tv-peru-pe.png" group-title="🇵🇪 TV Nacional",TV Peru (1080p)
+#EXTINF:-1 tvg-id="TVPeru.pe" tvg-name="TV Peru Noticias" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/tv-peru-pe.png" group-title="🇵🇪 TV Nacional",TV Peru Noticias (1080p)
 https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf7.m3u8

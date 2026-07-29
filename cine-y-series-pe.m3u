@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="LaTele.pe" tvg-name="La Tele" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/la-tele-pe.png" group-title="🎬 Cine y Series",La Tele (576p)
+#EXTINF:-1 tvg-id="LaTele.pe" tvg-name="La Tele Peru" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/la-tele-pe.png" group-title="🎬 Cine y Series",La Tele Peru (576p)
 https://live-evg25.tv360.bitel.com.pe/bitel/latele/playlist.m3u8
 
 #EXTINF:-1 tvg-id="LatinaClasicos.pe" tvg-name="Latina Clasicos" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/latina-clasicos-pe.png" group-title="🎬 Cine y Series",Latina Clasicos (1080p)

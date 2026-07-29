@@ -63,7 +63,7 @@ https://cdn-origin.smartplay.pe/rpp/index.m3u8
 #EXTINF:-1 tvg-id="RTP.pe" tvg-name="RTP" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/rtp-pe.png" group-title="📰 Noticias",RTP (720p)
 https://live-evg7.tv360.bitel.com.pe/bitel/rtp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="SolTV.pe" tvg-name="Sol TV" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/sol-tv-pe.png" group-title="📰 Noticias",Sol TV (720p)
+#EXTINF:-1 tvg-id="SolTV.pe" tvg-name="Sol TV Peru" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/sol-tv-pe.png" group-title="📰 Noticias",Sol TV Peru (720p)
 https://live20.bozztv.com/giatv/giatv-soltvenvivo/soltvenvivo/chunks.m3u8
 
 #EXTINF:-1 tvg-id="Trivu.pe" tvg-name="Trivu" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/trivu-pe.png" group-title="📰 Noticias",Trivu (1080p)
@@ -78,6 +78,6 @@ https://live-evg11.tv360.bitel.com.pe/bitel/uraniotv/playlist.m3u8
 #EXTINF:-1 tvg-id="VisionSur.pe" tvg-name="Vision Sur" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/vision-sur-pe.png" group-title="📰 Noticias",Vision Sur (1080p)
 https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Willax.pe" tvg-name="Willax" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/willax-pe.png" group-title="📰 Noticias",Willax (720p)
+#EXTINF:-1 tvg-id="Willax.pe" tvg-name="Willax Peru" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/willax-pe.png" group-title="📰 Noticias",Willax Peru (720p)
 http://181.224.255.210:8001/play/a0s7/index.m3u8
 
