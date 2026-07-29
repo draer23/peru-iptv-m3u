@@ -1,0 +1,34 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="ArpegioTV.pe" tvg-name="Arpegio TV" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/arpegio-tv-pe.png" group-title="🎵 Música",Arpegio TV (720p)
+https://vdo.oyotunserver.com/arpegio/video.m3u8
+
+#EXTINF:-1 tvg-id="KalienteTelevisión.pe" tvg-name="Kaliente Televisión" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/kaliente-televisión-pe.png" group-title="🎵 Música",Kaliente Televisión (720p)
+https://lbgo.bozztv.com/ssh101/ssh101/kalientecusco/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LaFabulosaTV.pe" tvg-name="La Fabulosa TV" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/la-fabulosa-tv-pe.png" group-title="🎵 Música",La Fabulosa TV (720p)
+https://eu1.servers10.com:8081/8004/index.m3u8
+
+#EXTINF:-1 tvg-id="MixTV.pe" tvg-name="Mix TV" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/mix-tv-pe.png" group-title="🎵 Música",Mix TV (1080p)
+https://live-evg5.tv360.bitel.com.pe/bitel/mixtvSRT/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RadioRumbaTV.pe" tvg-name="Radio Rumba TV" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/radio-rumba-tv-pe.png"group-title="🎵 Música",Radio Rumba TV (720p)
+https://tv.sistemasandinos.org/rumbatv/video.m3u8
+
+#EXTINF:-1 tvg-id="SaborMix.pe" tvg-name="Sabor Mix" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/sabor-mix-pe.png" group-title="🎵 Música",Sabor Mix (1080p)
+https://live-evg7.tv360.bitel.com.pe/bitel/sabormixtvSRT/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SanjuaneraTV.pe" tvg-name="Sanjuanera TV" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/sanjuanera-tv-pe.png" group-title="🎵 Música",Sanjuanera TV (720p)
+https://live.obslivestream.com/sanjuanera/index.m3u8
+
+#EXTINF:-1 tvg-id="TurboMixRadioTV.pe" tvg-name="Turbo Mix Radio TV" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/turbo-mix-radio-tv-pe.png" group-title="🎵 Música",Turbo Mix Radio TV (1080p)
+https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8
+
+#EXTINF:-1 tvg-id="TVperuanisima.pe" tvg-name="TVperuanisima" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/tvperuanisima-pe.png" group-title="🎵 Música",TVperuanisima (720p)
+https://k20.usastreams.com:8081/tvperuanisima/index.m3u8
+
+#EXTINF:-1 tvg-id="UrbanaTV.pe" tvg-name="Urbana TV" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/urbana-tv-pe.png" group-title="🎵 Música",Urbana TV (1080p)
+https://live-evg10.tv360.bitel.com.pe/bitel/urbanatv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="VisionMusicaTV.pe" tvg-name="Vision Musica TV" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/vision-musica-tv-pe.png" group-title="🎵 Música",Vision Musica TV (720p)
+https://videoserver.tmcreativos.com:19360/visionmusica/visionmusica.m3u8
