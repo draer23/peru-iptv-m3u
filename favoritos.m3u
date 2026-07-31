@@ -12,7 +12,7 @@ http://181.224.255.210:8001/play/a0s6/index.m3u8?hls
 #EXTINF:-1 tvg-id="AtvPlus.pe" tvg-name="ATV+" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/atv-plus-pe.png" group-title="Favoritos",ATV+ (720p)
 https://d26l0c7cli5gzs.cloudfront.net/ts:abr.m3u8
 
-#EXTINF:-1 tvg-id="ATVSur.pe" tvg-name="ATV Sur" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/atv-sur-pe.png" group-title="Favoritos",ATV Sur (720p)
+#EXTINF:-1 tvg-id="ATVSur.pe" tvg-name="ATV Sur Peru" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/atv-sur-pe.png" group-title="Favoritos",ATV Sur Peru (720p)
 https://dnhmqt6n0lkaq.cloudfront.net/ts:abr.m3u8
 
 #EXTINF:-1 tvg-id="Exitosa.pe" tvg-name="Exitosa" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/exitosa-pe.png" group-title="Favoritos",Exitosa (720p)
