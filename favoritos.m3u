@@ -21,11 +21,11 @@ https://luna-4-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a451262/index
 #EXTINF:-1 tvg-id="GlobalTv.pe" tvg-name="Global TV Peru" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/global-tv-pe.png" group-title="Favoritos",Global TV Peru (720p)
 https://live-evg7.tv360.bitel.com.pe/bitel/global_abr/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Latina.pe" tvg-name="Latina Peru" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/latina-pe.png" group-title="Favoritos",Latina Peru (1080p)
-https://origin.dpsgo.com/ssai/event/oYQGDqEGTmGdHE_fz9oLlg/master.m3u8
-
 #EXTINF:-1 tvg-id="L1MAX.pe" tvg-name="L1 MAX" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/l1-max-pe.png" group-title="Favoritos",L1 MAX (1080p)
 http://181.224.255.210:8001/play/a0sf/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="Latina.pe" tvg-name="Latina Peru" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/latina-pe.png" group-title="Favoritos",Latina Peru (1080p)
+https://origin.dpsgo.com/ssai/event/oYQGDqEGTmGdHE_fz9oLlg/master.m3u8
 
 #EXTINF:-1 tvg-id="LatinaNoticias.pe" tvg-name="Latina Noticias" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/latina-noticias-pe.png" group-title="Favoritos",Latina Noticias (1080p)
 https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latinanoticias/latinanoticias.smil/playlist.m3u8
