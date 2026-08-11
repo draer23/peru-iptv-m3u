@@ -39,6 +39,15 @@ http://181.224.255.210:8001/play/a0s5/index.m3u8
 #EXTINF:-1 tvg-id="PanamericanaTelevision.pe" tvg-name="Panamericana Television Peru" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/panamericana-television-pe.png" group-title="🌟 Favoritos",Panamericana Television Peru (480p)
 http://181.224.255.210:8001/play/a0r6/index.m3u8
 
+#EXTINF:-1 tvg-id="Pasiones.us" tvg-name="Pasiones" tvg-logo="https://raw.githubusercontent.com/draer23/internacionales-iptv-logos-550x550px/main/pasiones-us.png" group-title="🌟 Favoritos",Pasiones (1080p) [Opc.1]
+http://181.224.255.210:8001/play/a0s0/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="Pasiones.us" tvg-name="Pasiones" tvg-logo="https://raw.githubusercontent.com/draer23/internacionales-iptv-logos-550x550px/main/pasiones-us.png" group-title="🌟 Favoritos",Pasiones (1080p) [Opc.2]
+http://45.5.118.152:8000/play/a06d/index.m3u8
+
+#EXTINF:-1 tvg-id="Pasiones.us" tvg-name="Pasiones" tvg-logo="https://raw.githubusercontent.com/draer23/internacionales-iptv-logos-550x550px/main/pasiones-us.png" group-title="🌟 Favoritos",Pasiones (1080p) [Opc.3]
+http://45.5.116.228:8000/play/a0kq/index.m3u8
+
 #EXTINF:-1 tvg-id="RppTV.pe" tvg-name="RPP" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/rpp-pe.png" group-title="🌟 Favoritos",RPP (1080p)
 https://cdn-origin.smartplay.pe/rpp/index.m3u8
 
