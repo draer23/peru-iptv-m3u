@@ -48,13 +48,13 @@ https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea
 #EXTINF:-1 tvg-id="MonterricoTV.pe" tvg-name="Monterrico TV" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/monterrico-tv-pe.png" group-title="🌟 Favoritos",Monterrico TV (1080p)
 https://h.jcp.live.opencaster.com/play_src/index.m3u8
 
-#EXTINF:-1 tvg-id="MovistarDeportes.pe" tvg-name="Movistar Deportes" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/movistar-deportes-pe.png" group-title="🌟 Favoritos",Movistar Deportes (1080p) [Opc.1]
+#EXTINF:-1 tvg-id="MovistarDeportes.pe" tvg-name="Movistar Deportes" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/movistar-deportes-pe.png" group-title="🌟 Favoritos",Movistar Deportes (480p) [Opc.1]
 http://170.244.209.30:8000/play/a1i8/index.m3u8
 
-#EXTINF:-1 tvg-id="MovistarDeportes.pe" tvg-name="Movistar Deportes" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/movistar-deportes-pe.png" group-title="🌟 Favoritos",Movistar Deportes (1080p) [Opc.2]
+#EXTINF:-1 tvg-id="MovistarDeportes.pe" tvg-name="Movistar Deportes" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/movistar-deportes-pe.png" group-title="🌟 Favoritos",Movistar Deportes (480p) [Opc.2]
 http://157.100.9.51:8000/play/a22s
 
-#EXTINF:-1 tvg-id="MovistarDeportes.pe" tvg-name="Movistar Deportes" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/movistar-deportes-pe.png" group-title="🌟 Favoritos",Movistar Deportes (1080p) [Opc.3]
+#EXTINF:-1 tvg-id="MovistarDeportes.pe" tvg-name="Movistar Deportes" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/movistar-deportes-pe.png" group-title="🌟 Favoritos",Movistar Deportes (480p) [Opc.3]
 http://205.235.6.29:8000/play/a0zd/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="PanamericanaTelevision.pe" tvg-name="Panamericana Television Peru" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/panamericana-television-pe.png" group-title="🌟 Favoritos",Panamericana Television Peru (1080p)
