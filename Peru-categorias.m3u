@@ -245,6 +245,15 @@ https://live-evg5.tv360.bitel.com.pe/bitel/mixtvSRT/playlist.m3u8
 #EXTINF:-1 tvg-id="MonterricoTV.pe" tvg-name="Monterrico TV" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/monterrico-tv-pe.png" group-title="⚽ Deportes",Monterrico TV (1080p)
 https://h.jcp.live.opencaster.com/play_src/index.m3u8
 
+#EXTINF:-1 tvg-id="MovistarDeportes.pe" tvg-name="Movistar Deportes" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/movistar-deportes-pe.png" group-title="⚽ Deportes",Movistar Deportes (1080p) [Opc.1]
+http://170.244.209.30:8000/play/a1i8/index.m3u8
+
+#EXTINF:-1 tvg-id="MovistarDeportes.pe" tvg-name="Movistar Deportes" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/movistar-deportes-pe.png" group-title="⚽ Deportes",Movistar Deportes (1080p) [Opc.2]
+http://157.100.9.51:8000/play/a22s
+
+#EXTINF:-1 tvg-id="MovistarDeportes.pe" tvg-name="Movistar Deportes" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/movistar-deportes-pe.png" group-title="⚽ Deportes",Movistar Deportes (1080p) [Opc.3]
+http://205.235.6.29:8000/play/a0zd/index.m3u8?hls
+
 #EXTINF:-1 tvg-id="NacionalTVPeru.pe" tvg-name="Nacional TV Peru" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/nacional-tv-peru-pe.png" group-title="📺 Regionales",Nacional TV Peru (720p)
 https://play.agenciastreaming.com:8081/nacionaltv/index.fmp4.m3u8
 
