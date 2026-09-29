@@ -75,5 +75,11 @@ http://45.5.116.228:8000/play/a0kq/index.m3u8
 #EXTINF:-1 tvg-id="TVPeru.pe" tvg-name="TV Peru Noticias" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/tv-peru-pe.png" group-title="🌟 Favoritos",TV Peru Noticias (1080p)
 https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf7.m3u8
 
-#EXTINF:-1 tvg-id="Willax.pe" tvg-name="Willax Peru" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/willax-pe.png" group-title="🌟 Favoritos",Willax Peru (720p)
-http://181.224.255.210:8001/play/a0s7/index.m3u8
+#EXTINF:-1 tvg-id="Willax.pe" tvg-name="Willax Peru" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/willax-pe.png" group-title="🌟 Favoritos",Willax Peru (720p) [Opc.1]
+http://181.224.255.210:8001/play/a0s7/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="Willax.pe" tvg-name="Willax Peru" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/willax-pe.png" group-title="🌟 Favoritos",Willax Peru (720p) [Opc.2]
+http://45.186.254.75:8000/play/a0ex/index.m3u8
+
+#EXTINF:-1 tvg-id="Willax.pe" tvg-name="Willax Peru" tvg-logo="https://raw.githubusercontent.com/draer23/peru-iptv-logos-550x550px/main/willax-pe.png" group-title="🌟 Favoritos",Willax Peru (720p) [Opc.3]
+http://38.224.231.47:8000/play/a06r/index.m3u8
